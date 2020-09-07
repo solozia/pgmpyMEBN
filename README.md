@@ -1,2 +1,2 @@
-# pgmpyt
+# pgmpyMEBN
 pgmpy
